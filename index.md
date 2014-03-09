@@ -1,5 +1,5 @@
 ---
-title       : 
+title       : たいとる
 subtitle    : 
 author      : 
 job         : 
